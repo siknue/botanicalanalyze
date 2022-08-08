@@ -1,6 +1,6 @@
-import streamlitas st
-import pandasas pd
-import numpyas np
+import streamlit as st
+import pandas as pd
+import numpy as np
 
 def app():
     st.title('Home')
